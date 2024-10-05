@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\prag.exe
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\appsettings.json
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\prag.dll
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\prag.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\prag.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Release\net8.0\publish\prag.pdb

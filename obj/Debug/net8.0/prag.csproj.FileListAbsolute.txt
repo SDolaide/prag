@@ -1,0 +1,2 @@
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Debug\net8.0\prag.exe
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\bin\Debug\net8.0\prag.dll
