@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\prag.props" />
+</Project>
