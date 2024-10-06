@@ -28,3 +28,4 @@ C:\Users\LENOVO\OneDrive\Desktop\prag\prag\obj\Release\net8.0\refint\prag.dll
 C:\Users\LENOVO\OneDrive\Desktop\prag\prag\obj\Release\net8.0\prag.pdb
 C:\Users\LENOVO\OneDrive\Desktop\prag\prag\obj\Release\net8.0\prag.genruntimeconfig.cache
 C:\Users\LENOVO\OneDrive\Desktop\prag\prag\obj\Release\net8.0\ref\prag.dll
+C:\Users\LENOVO\OneDrive\Desktop\prag\prag\obj\Release\net8.0\prag.sourcelink.json
